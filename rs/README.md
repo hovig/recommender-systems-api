@@ -2,8 +2,8 @@
 
 ## Content-based filtering:
 
-![](../../images/content-based\ diag.png)
+![](https://raw.githubusercontent.com/hovig/recommender-systems-api/master/images/content-based%20diag.png)
 
 ## Collaborative filtering:
 
-![](./../images/collaborative-based\ diag.png)
+![](https://raw.githubusercontent.com/hovig/recommender-systems-api/master/images/collaborative-based%20diag.png)
