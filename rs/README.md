@@ -2,8 +2,8 @@
 
 ## Content-based filtering:
 
-![](../images/content-based\ diag.png)
+![](../../images/content-based\ diag.png)
 
 ## Collaborative filtering:
 
-![](./images/collaborative-based\ diag.png)
+![](./../images/collaborative-based\ diag.png)
