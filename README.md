@@ -1,3 +1,3 @@
 # recommender-systems-api
 
-![](images/content-diag.png)
+![](images/content-based diag.png)
